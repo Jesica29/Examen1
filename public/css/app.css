@@ -1,0 +1,107 @@
+
+/*
+
+Selectores CSS3
+
+	CLASES .
+	ID     #
+	ETIQUETAS (nombre de la etiqueta) "tag"
+
+*/
+#slider-Libreria, #section2{
+
+	margin-top: 30px;
+	
+}
+
+ul{
+   
+    color: #00e5ff;
+}
+
+.slider .indicators .indicator-item.active {
+  background-color: #00e5ff ;
+}
+
+.btn-social{
+	font-size: 6px;
+	margin-left: 6px;
+
+}
+
+.estilos{
+	border-right-style: solid;
+}
+.estilo2, .texto{
+	border-bottom-style: solid;
+	text-align: left;
+}
+.estil{
+	text-align: right;
+}
+.random{
+	text-align: left;
+}
+
+.active-item{
+	background: #455a64 ;
+
+}
+
+#boton{
+	 width:350px;
+     height:100px;
+     text-align: center;
+     background: #00e5ff;
+      font-family: Trebuchet;
+
+}
+#div1{
+	 width:800px;
+     height:700px;
+
+}
+.table{
+	 border: 1px solid #000;
+}
+ color: #fafafa;
+
+ .error{
+ 	color: red;
+ 	padding: 3px;
+ }
+
+ .form-acceso{
+ 	margin-top: 40px;
+ 	 width:600px;
+     height:325px;
+
+ }
+
+ h4
+ {
+ 	 color: #1de9b6 ;
+ 	 font-weight: bold;
+ }
+
+ h6{
+	color: #ff8a65;
+	font-weight: bold;
+	text-align: justify;
+}
+
+h5{
+	color: #006064;
+	font-weight: bold;
+	text-align: justify;
+	margin-left: 15px;
+}
+
+.form-panel{
+	color: #006064;
+	padding-top: 20px;
+}
+
+.active-item{
+	background-color: #006064;
+}
